@@ -1,0 +1,17 @@
+[
+  {
+    "package": "multgee",
+    "oncran": true
+  },
+  {
+    "package": "ShrinkCovMat",
+    "oncran": true
+  },
+  {
+    "package": "SimCorMultRes",
+    "oncran": true
+  },
+  {
+    "package": "HDTD"
+  }
+]
