@@ -18,8 +18,3 @@
 	url = https://github.com/anestistouloumis/simcormultres
 	shallow = true
 	registered = true
-[submodule "HDTD"]
-	path = HDTD
-	url = https://github.com/anestistouloumis/hdtd
-	shallow = true
-	registered = true

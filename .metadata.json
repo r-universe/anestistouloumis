@@ -10,8 +10,5 @@
   {
     "package": "SimCorMultRes",
     "oncran": true
-  },
-  {
-    "package": "HDTD"
   }
 ]
