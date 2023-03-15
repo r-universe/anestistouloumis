@@ -8,10 +8,10 @@
     "oncran": true
   },
   {
-    "package": "SimCorMultRes",
-    "oncran": true
+    "package": "HDTD"
   },
   {
-    "package": "HDTD"
+    "package": "SimCorMultRes",
+    "oncran": true
   }
 ]
