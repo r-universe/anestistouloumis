@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HDTD"]
 	path = HDTD
 	url = https://github.com/anestistouloumis/hdtd
-	shallow = true
-	registered = true
 [submodule "multgee"]
 	path = multgee
 	url = https://github.com/anestistouloumis/multgee
-	shallow = true
-	registered = true
 [submodule "ShrinkCovMat"]
 	path = ShrinkCovMat
 	url = https://github.com/anestistouloumis/shrinkcovmat
-	shallow = true
-	registered = true
 [submodule "SimCorMultRes"]
 	path = SimCorMultRes
 	url = https://github.com/anestistouloumis/simcormultres
-	shallow = true
-	registered = true
