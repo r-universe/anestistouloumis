@@ -5,12 +5,12 @@
 [submodule "HDTD"]
 	path = HDTD
 	url = https://github.com/anestistouloumis/hdtd
-[submodule "multgee"]
-	path = multgee
-	url = https://github.com/anestistouloumis/multgee
 [submodule "ShrinkCovMat"]
 	path = ShrinkCovMat
 	url = https://github.com/anestistouloumis/shrinkcovmat
 [submodule "SimCorMultRes"]
 	path = SimCorMultRes
 	url = https://github.com/anestistouloumis/simcormultres
+[submodule "multgee"]
+	path = multgee
+	url = https://github.com/anestistouloumis/multgee
