@@ -8,6 +8,9 @@
 [submodule "SimCorMultRes"]
 	path = SimCorMultRes
 	url = https://github.com/anestistouloumis/simcormultres
+[submodule "geer"]
+	path = geer
+	url = https://github.com/anestistouloumis/geer
 [submodule "multgee"]
 	path = multgee
 	url = https://github.com/anestistouloumis/multgee
